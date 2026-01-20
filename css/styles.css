@@ -7,13 +7,13 @@
    CSS Variables (Color Scheme)
    ========================= */
 :root {
-    --primary-color: #4d1979;      /* TCU Purple */
-    --secondary-color: #7c3aed;    /* Light Purple */
-    --accent-color: #ffd700;       /* Gold accent */
-    --text-color: #333;            /* Dark gray for text */
-    --text-secondary: #64748b;     /* Lighter gray for captions */
-    --bg-color: #f4f4f4;           /* Light background */
-    --white: #ffffff;
+--primary-color: #394a2a;      
+    --secondary-color: #8f5c5c;    
+    --accent-color: #ecdfd5;       
+    --text-color: #333333;      
+    --text-secondary: #6a6464;   
+    --bg-color: #ecdfd5;          
+    --white: #FFFFFF;                 
 }
 
 /* =========================
@@ -61,7 +61,7 @@ header p {
 }
 
 nav {
-    background-color: #3d1461;
+    background-color: #394a2a;
     padding: 0.75rem;
     display: flex;              /* Make nav a flex container */
     justify-content: center;    /* Center the ul inside nav */
@@ -356,7 +356,7 @@ tr:nth-child(even) {
    Footer (semantic tag)
    ========================= */
 footer {
-    background-color: #333;
+    background-color:#8f5c5c;
     color: white;
     text-align: center;
     padding: 1.5rem;
